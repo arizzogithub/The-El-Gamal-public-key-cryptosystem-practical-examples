@@ -1,7 +1,7 @@
 import java.math.*;
 import java.util.*;
 
-public class Q8Part1 {
+public class Q8 {
 
  public static void main(String args[]) {
 
