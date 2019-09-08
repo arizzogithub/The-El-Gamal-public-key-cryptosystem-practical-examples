@@ -40,5 +40,4 @@ explanation and include the relevant code snippet, as well as its runtime.
 
 Question 8 
 Generate a new set of private and public keys for Alice and Bob,
-using the p and g you generated in Question 7. Encrypt your SRN with the
-shared key. Include a brief explanation and the relevant code snippet.
+using the p and g you generated in Question 7. Include a brief explanation and the relevant code snippet.
