@@ -1,7 +1,10 @@
+This assignment takes a practical example for the El Gamal public key cryptosystem.
+
+
 Task:  Given a unique set of data
 
 {
- "srn": "140359547",
+ "srn": "5555555",
  "name": "Anastasia Rizzo",
  "exercise1": {
   "p": "2685735181983467",
