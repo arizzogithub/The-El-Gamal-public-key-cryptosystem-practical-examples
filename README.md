@@ -1,7 +1,7 @@
 This assignment takes a practical example for the El Gamal public key cryptosystem.
 
 
-Task:  Given a unique set of data
+Task:  Given a unique set of data (JSON file)
 
 {
  "srn": "555555",
