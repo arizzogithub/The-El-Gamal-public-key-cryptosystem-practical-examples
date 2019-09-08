@@ -4,7 +4,7 @@ This assignment takes a practical example for the El Gamal public key cryptosyst
 Task:  Given a unique set of data
 
 {
- "srn": "5555555",
+ "srn": "555555",
  "name": "Anastasia Rizzo",
  "exercise1": {
   "p": "2685735181983467",
